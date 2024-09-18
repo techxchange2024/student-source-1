@@ -53,7 +53,7 @@ public class WeatherServlet extends HttpServlet {
 	// get weather information from site: http://www.wunderground.com
 	private static final String WEATHER_API_KEY = "WEATHER_API_KEY";  
 
-  private static final Logger logger = Logger.getLogger(WeatherServlet.class.getName());
+    private static final Logger logger = Logger.getLogger(WeatherServlet.class.getName());
     
 	private static InitialContext context;
 
