@@ -1,4 +1,4 @@
-# ModResorts Demo Application
+# ModResorts Demo Application TEST
 
 ## Building
 This version of ModResorts has dependencies on WAS APIs. You can install the dependencies needed in your local maven repo with the following command:
